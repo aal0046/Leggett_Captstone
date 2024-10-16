@@ -4,7 +4,7 @@ This script loops through biological data files and calculates the percentage of
 To run the script enter
 ```
 bash ./Leggett_GBIF.sh your_entry_file
-```
+``` bash 
 In place of your_entry_file, enter your text file containing the names of the files to be looped through
 ## The Script
 ### Confidence Checks
