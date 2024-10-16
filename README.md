@@ -50,6 +50,17 @@ All locality data is combined into one file.
 Any intermediate files made during the loop are deleted. 
 The finished table is printed to the command line.
 
+## Results
+This table gives results obtained using this code for the file Species_list.txt, and all the files listed in Species_list.txt
+
+| Species | Percent |
+|---------|---------|
+| Castaneus | 18.14% |
+| Domesticus | 98.97% |
+| Musculus | 83.18% |
+| Molossinus | 30.76% |
+| Spretus | 94.78% |
+
 
 
 
